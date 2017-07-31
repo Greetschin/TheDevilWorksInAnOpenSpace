@@ -33,3 +33,10 @@ D - Move right
 Left Clic - Fast attack
 Right Clic - Slow and strong attack
 
+
+Credit Music : Gigantic Desire
+
+
+Useless info :
+
+Game create with 168 commit using Collab
