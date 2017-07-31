@@ -13,13 +13,14 @@ You are slowly losing energy, and you have to destroy objects and enemies to reg
 Run to the door to escape the evil room.
 
 Staff - Les 3 Cuisses
+
 Graphic Team:
-Quentin Donnaint
-Atom “atom” Mattelaer
+	Quentin Donnaint
+	Atom “atom” Mattelaer
 Dev Team:
-Grégoire “Greetschin” DUFLO
-Olivier “Zessirb” BRISSEZ
-Hugo “Raiponz” BEAUCAMPS
+	Grégoire “Greetschin” DUFLO
+	Olivier “Zessirb” BRISSEZ
+	Hugo “Raiponz” BEAUCAMPS
 
 Other Team:
 	Maximilien Pluchard 
