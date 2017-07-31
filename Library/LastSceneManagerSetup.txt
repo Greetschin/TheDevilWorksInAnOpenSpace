@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/01_SCENES/01_DevScene/DevLevel1.unity
+  isLoaded: 1
+  isActive: 1
