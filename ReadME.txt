@@ -39,4 +39,8 @@ Credit Music : Gigantic Desire
 
 Useless info :
 
-Game create with 168 commit using Collab
+Game create with 171 commit using Collab
+
+Link acces :	https://ldjam.com/events/ludum-dare/39/the-devil-works-in-an-open-space
+				https://greet.itch.io/the-devil-works-in-an-open-space
+
